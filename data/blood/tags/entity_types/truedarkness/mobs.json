@@ -1,0 +1,20 @@
+
+{
+    "replace": false,
+    "values": [
+      "truedarkness:corrupted_mage",
+      "truedarkness:miner",
+      "truedarkness:soulsteal_warrior",
+      "truedarkness:corrupted_human",
+      "truedarkness:corrupted_hand",
+      "truedarkness:eridium_golem",
+      "truedarkness:eridium_zombie",
+      "truedarkness:corrupted_knight",
+      "truedarkness:general",
+      "truedarkness:waste_runner",
+      "truedarkness:flow",
+      "truedarkness:gloomer_craftsman",
+      "truedarkness:gloomer_warrior",
+      "truedarkness:gloomer_elder"
+    ]
+  }

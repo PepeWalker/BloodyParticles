@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Enhanced Combat Feedback: Adds unique particle effects for mob hits!"
+  },
+  "meta": {
+    "game_version": "1.20.1",
+    "author": "HappyPito",
+    "website": "https://github.com/PepeWalker/BloodyParticles"
+  }
+}

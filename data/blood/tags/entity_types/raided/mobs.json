@@ -1,0 +1,10 @@
+
+{
+    "replace": false,
+    "values": [
+      "raided:incinerator",
+      "raided:inquisitor",
+      "raided:necromancer",
+      "raided:savager"
+    ]
+  }

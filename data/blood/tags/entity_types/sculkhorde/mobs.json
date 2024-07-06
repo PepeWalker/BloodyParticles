@@ -1,0 +1,21 @@
+
+{
+    "replace": false,
+    "values": [
+      "sculkhorde:sculk_spore_spewer",
+      "sculkhorde:sculk_zombie",
+      "sculkhorde:sculk_spitter",
+      "sculkhorde:sculk_creeper",
+      "sculkhorde:sculk_hatcher",
+      "sculkhorde:sculk_vindicator",
+      "sculkhorde:sculk_ravager",
+      "sculkhorde:sculk_witch",
+      "sculkhorde:sculk_enderman",
+      "sculkhorde:sculk_phantom",
+      "sculkhorde:sculk_salmon",
+      "sculkhorde:sculk_pufferfish",
+      "sculkhorde:sculk_squid",
+      "sculkhorde:sculk_mite",
+      "sculkhorde:sculk_mite_aggressor"
+    ]
+  }

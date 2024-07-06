@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+      "deep_dark_regrowth:hunter",
+      "deep_dark_regrowth:spectator",
+      "deep_dark_regrowth:observer",
+      "deep_dark_regrowth:abomination",
+      "deep_dark_regrowth:corrupted_skeleton",
+      "deep_dark_regrowth:stalker",
+      "deep_dark_regrowth:spreader",
+      "deep_dark_regrowth:sculk_parasite",
+      "deep_dark_regrowth:annihilator",
+      "deep_dark_regrowth:soul_key_awake",
+      "deep_dark_regrowth:tentacle_lamp",
+      "deep_dark_regrowth:vault_chest"
+    ]
+  }

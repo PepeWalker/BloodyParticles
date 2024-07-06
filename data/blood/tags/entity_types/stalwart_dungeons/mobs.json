@@ -1,0 +1,11 @@
+
+{
+    "replace": false,
+    "values": [
+      "stalwart_dungeons:awful_ghast",
+      "stalwart_dungeons:nether_keeper",
+      "stalwart_dungeons:giddy_blaze",
+      "stalwart_dungeons:reinforced_blaze",
+      "stalwart_dungeons:incomplete_wither"
+    ]
+  }

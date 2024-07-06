@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "irons_spellbooks:apothecarist",
+      "irons_spellbooks:citadel_keeper",
+      "irons_spellbooks:dead_king",
+      "irons_spellbooks:dead_king_corpse",
+      "irons_spellbooks:archevoker",
+      "irons_spellbooks:necromancer",
+      "irons_spellbooks:cryomancer",
+      "irons_spellbooks:pyromancer",
+      "irons_spellbooks:priest"
+    ]
+  }
