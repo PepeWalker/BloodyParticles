@@ -21,7 +21,7 @@ The datapack now features improved modularity, allowing it to function even when
 - Conditional execution based on the presence of mod-specific entities
 
 ## Installation
-1. Download the datapack.
+1. Download the datapack here. [BloodyParticles](https://modrinth.com/datapack/minecraft-bloody-and-full-of-particles!/settings/description)
 2. Place it in your world's `datapacks` folder.
 3. Reload the world or use `/reload` command.
 4. Commands  `/datapack enable "file/Bloody Particles_v2"` and  `/function blood:load`
