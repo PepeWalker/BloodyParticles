@@ -21,11 +21,10 @@ The datapack now features improved modularity, allowing it to function even when
 - Conditional execution based on the presence of mod-specific entities
 
 ## Installation
-1. Download the datapack
-2. Place it in your world's `datapacks` folder
-3. Reload the world or use `/reload` command
-4. Command  `/datapack enable file/Bloody Particles_v2`
-            `/function blood:load`
+1. Download the datapack.
+2. Place it in your world's `datapacks` folder.
+3. Reload the world or use `/reload` command.
+4. Commands  `/datapack enable "file/Bloody Particles_v2"` and  `/function blood:load`
 
 ## Customization
 Users can easily customize particle effects by modifying the function files in the datapack. Each mob's effects are defined in separate files for easy editing.
