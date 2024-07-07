@@ -1,4 +1,4 @@
-execute as @e[nbt={HurtTime:10s}] at @s run function blood:sangre_mobs
+#execute as @e[nbt={HurtTime:10s}] at @s run function blood:sangre_mobs
 
 
 
@@ -7,6 +7,9 @@ execute as @e[type=#blood:minecraft/mobs,nbt={HurtTime:10s}] at @s run function 
 
 # Alex's Mobs
 execute as @e[type=#blood:alexsmobs/mobs,nbt={HurtTime:10s}] at @s run function blood:alexsmobs
+
+# Alex's Caves
+execute as @e[type=#blood:alexscaves/mobs,nbt={HurtTime:10s}] at @s run function blood:alexscaves
 
 # Born in Chaos V1
 execute as @e[type=#blood:born_in_chaos_v1/mobs,nbt={HurtTime:10s}] at @s run function blood:born_in_chaos_v1

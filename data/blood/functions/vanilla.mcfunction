@@ -28,7 +28,7 @@ execute as @s[type=minecraft:zombie_horse] at @s run particle item netherrack ~ 
 execute as @s[type=minecraft:zombie_horse] at @s run particle minecraft:block green_concrete_powder ~ ~1.2 ~ 0.2 0.5 0.2 0.01 5 normal @a[tag=mostrar.sangre]
 
 #skeleton
-execute as @s[type=minecraft:skeleton] at @s run particle dust 0.96 0.93 0.93 1 ~ ~1.2 ~ 0.3 0.4 0.3 0.02 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=minecraft:skeleton] at @s run particle dust 0.604 0.604 0.604 1 ~ ~1.2 ~ 0.3 0.4 0.3 0.02 4 normal @a[tag=mostrar.sangre]
 execute as @s[type=minecraft:skeleton] at @s run particle item bone ~ ~1.2 ~ 0.3 0.5 0.3 0.11 4 normal @a[tag=mostrar.sangre]
 
 #husk
