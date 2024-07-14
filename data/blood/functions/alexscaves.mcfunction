@@ -195,13 +195,127 @@ execute as @s[type=alexscaves:atlatitan] at @s run particle ash ~ ~3 ~ 2.0 2.5 2
 execute as @s[type=alexscaves:atlatitan] at @s run particle alexscaves:moth_dust ~ ~ ~ 1.5 0.1 1.5 0.1 3 normal @a[tag=mostrar.sangre]
 execute as @s[type=alexscaves:atlatitan] at @s run particle minecraft:falling_dust dirt ~ ~5.5 ~ 0.5 0.1 0.5 1 5 normal @a[tag=mostrar.sangre]
 
+#alexscaves:relicheirus
+# Alex's Caves: Relicheirus
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:dust 0.071 0.071 0.4 2.0 ~ ~1.5 ~ 0.3 1.0 0.3 0.1 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:dust 0.4 0.086 0.659 2.0 ~ ~1.5 ~ 0.3 1.0 0.3 0.1 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:block blue_wool ~ ~2.5 ~ 0.3 1.0 0.3 0.05 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle block purple_wool ~ ~1.5 ~ 0.3 1.0 0.3 0.05 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:cloud ~ ~1.5 ~1 0.3 2.3 0.3 0.1 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:block redstone_block ~ ~1.5 ~ 0.5 1.0 0.5 0.31 25 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:item lapis_lazuli ~ ~1.5 ~ 0.5 1.0 0.5 0.21 25 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle minecraft:smoke ~ ~ ~ 1.5 0.1 1.5 0.1 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle ash ~ ~1.5 ~ 1.5 1.0 1.5 0.1 35 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:relicheirus] at @s run particle alexscaves:moth_dust ~ ~ ~ 1.0 0.1 1.0 0.1 2 normal @a[tag=mostrar.sangre]
+
+#alexscaves:forsaken
+# Alex's Caves: Forsaken
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:dust 0.255 0.039 0.11 1.5 ~ ~2 ~ 0.5 1.5 0.5 0.05 6 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:dust 0.122 0.102 0.122 1.3 ~ ~2 ~ 0.5 1.5 0.5 0.05 6 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:block purple_concrete ~ ~2 ~ 0.5 1.5 0.5 0.1 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:block redstone_block ~ ~2 ~ 0.5 1.5 0.5 0.1 16 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:mycelium ~ ~2 ~ 0.5 1.5 0.5 0.05 6 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle alexscaves:falling_guano ~ ~2 ~ 1.0 1.5 1.0 0.1 22 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:large_smoke ~ ~2 ~ 0.5 1.5 0.5 0.05 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:forsaken] at @s run particle minecraft:dragon_breath ~ ~3.5 ~ 0.3 0.3 0.3 0.05 3 normal @a[tag=mostrar.sangre]
+
+#alexscaves:tripodfish
+# Alex's Caves: Tripodfish
+execute as @s[type=alexscaves:tripodfish] at @s run particle minecraft:dust 0.5 0.8 1.0 0.8 ~ ~0.1 ~ 0.1 0.1 0.1 0.01 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tripodfish] at @s run particle minecraft:bubble ~ ~0.1 ~ 0.1 0.1 0.1 0.01 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tripodfish] at @s run particle minecraft:splash ~ ~ ~ 0.1 0 0.1 0.01 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tripodfish] at @s run particle minecraft:block redstone_block ~ ~0.1 ~ 0.1 0.1 0.1 0.01 6 normal @a[tag=mostrar.sangre]
+
+#alexscaves:gossamer_worm
+# Alex's Caves: Gossamer Worm
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:dust 0.3 0.5 0.9 0.7 ~ ~0.1 ~ 0.4 0.1 0.4 0.01 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:glow ~ ~0.1 ~ 0.4 0.3 0.4 0.01 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:end_rod ~ ~0.1 ~ 0.4 0.2 0.4 0.001 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:underwater ~ ~0.1 ~ 0.4 0.1 0.4 0.01 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:block light_blue_stained_glass ~ ~0.1 ~ 0.4 0.1 0.4 0.01 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:gossamer_worm] at @s run particle minecraft:block redstone_block ~ ~0.1 ~ 0.4 0.1 0.4 0.01 4 normal @a[tag=mostrar.sangre]
+
+#alexscaves:hullbreaker
+# Alex's Caves: Hullbreaker
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:dust 0.337 0.4 0.494 1.5 ~ ~1.5 ~ 0.97 1.2 0.97 0.1 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:dust 0.016 0.608 1 1.2 ~ ~1.5 ~ 0.97 1.2 0.97 0.05 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:bubble_column_up ~ ~1.5 ~ 0.95 1.0 0.95 0.3 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:dolphin ~ ~1.5 ~ 0.7 1.2 0.7 0.1 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:underwater ~ ~1.5 ~ 0.7 1.2 0.7 0.1 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:glow_squid_ink ~ ~1.5 ~ 1.7 1.2 1.7 0.1 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:block redstone_block ~ ~1.5 ~ 0.9 1.2 0.9 0.51 40 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:sculk_soul ~ ~2.5 ~ 0.9 0.9 0.9 0.05 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:hullbreaker] at @s run particle minecraft:large_smoke ~ ~1.5 ~ 1.7 1.2 1.7 0.05 4 normal @a[tag=mostrar.sangre]
+
+#alexscaves:teletor
+# Alex's Caves: Teletor
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:dust 0.2 0.2 0.2 1.2 ~ ~0.7 ~ 0.3 0.7 0.3 0.05 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:dust 0.3 0.3 0.3 1.0 ~ ~0.7 ~ 0.3 0.7 0.3 0.05 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:block alexscaves:scrap_metal_plate ~ ~0.7 ~ 0.3 0.7 0.3 0.35 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:falling_dust black_concrete ~ ~1.2 ~ 0.3 0.2 0.3 1 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:smoke ~ ~0.7 ~ 0.3 0.7 0.3 0.01 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:electric_spark ~ ~0.7 ~ 0.3 0.7 0.3 0.3 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:block alexscaves:block_of_azure_neodymium ~ ~0.7 ~ 0.3 0.7 0.3 0.3 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:teletor] at @s run particle minecraft:block alexscaves:block_of_scarlet_neodymium ~ ~0.7 ~ 0.3 0.7 0.3 0.3 2 normal @a[tag=mostrar.sangre]
+
+## Does not work. parece que el sistema de daño para este mob esta cambiado por lo que no tengo forma de detectar cuando lo golpean o nose
+#alexscaves:magnetron
+# Alex's Caves: Magnetron
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:dust 0.5 0.5 0.5 1.5 ~ ~1.5 ~ 0.5 1.2 0.5 0.05 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:block stone ~ ~1.5 ~ 0.5 1.2 0.5 0.3 16 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:falling_dust cobblestone ~ ~1.8 ~ 0.4 0.2 0.4 1 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:crit ~ ~1.5 ~ 0.5 1.2 0.5 0.5 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:smoke ~ ~0.2 ~ 0.4 0.1 0.4 0.01 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:enchant ~ ~2.8 ~ 0.3 0.3 0.3 0.5 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:block alexscaves:block_of_azure_neodymium ~ ~2.5 ~ 0.3 0.2 0.3 0.1 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:magnetron] at @s run particle minecraft:block alexscaves:block_of_scarlet_neodymium ~ ~2.5 ~ 0.3 0.2 0.3 0.1 3 normal @a[tag=mostrar.sangre]
+
+#alexscaves:mine_guardian
+# Alex's Caves: Mine Guardian
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:dust 0.2 0.2 0.22 1.5 ~ ~0.5 ~ 0.4 0.4 0.4 0.05 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:ash ~ ~0.5 ~ 0.4 0.4 0.4 0.15 25 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:block netherite_block ~ ~0.5 ~ 0.4 0.4 0.4 0.5 11 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:underwater ~ ~0.5 ~ 0.5 0.5 0.5 0.01 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:bubble ~ ~0.5 ~ 0.4 0.4 0.4 0.55 4 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:smoke ~ ~0.5 ~ 0.3 0.3 0.3 0.1 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:mine_guardian] at @s run particle minecraft:crit ~ ~0.5 ~ 0.4 0.4 0.4 0.2 3 normal @a[tag=mostrar.sangre]
+
+#alexscaves:luxtructosaurus
+# Alex's Caves: Luxtructosaurus
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle alexscaves:tephra ~ ~3 ~ 1.0 2.5 1.0 0.1 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle alexscaves:tephra_flame ~ ~3 ~ 0.8 2.5 0.8 0.05 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle alexscaves:tephra_small ~ ~3 ~ 1.2 2.5 1.2 0.1 20 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:lava ~ ~0.1 ~ 0.8 0.1 0.8 0.5 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:flame ~ ~3 ~ 0.6 2.5 0.6 0.05 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:smoke ~ ~3 ~ 1.0 2.5 1.0 0.05 12 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:block redstone_block ~ ~3 ~ 0.6 2.5 0.6 0.21 30 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:large_smoke ~ ~3 ~ 1.0 2.5 1.0 0.05 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:dust 0.282 0.208 0.157 2.5 ~ ~3 ~ 1.4 2.5 1.4 0.1 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:dust 0.369 0.306 0.251 2.5 ~ ~3 ~ 1.4 2.5 1.4 0.1 8 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:block brown_wool ~ ~3 ~ 1.4 2.2 1.4 0.05 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle block orange_terracotta ~ ~3 ~ 1.4 2.5 1.4 0.05 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:cloud ~ ~3.5 ~1 1.3 1.3 1.3 0.1 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:block redstone_block ~ ~3 ~ 1.6 2.5 1.6 0.21 30 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:item netherrack ~ ~3 ~ 1.6 2.5 1.6 0.21 30 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:smoke ~ ~ ~ 2.0 0.1 2.0 0.1 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle ash ~ ~3 ~ 2.0 2.5 2.0 0.1 40 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle alexscaves:moth_dust ~ ~0.2 ~ 1.5 0.1 1.5 0.1 3 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:luxtructosaurus] at @s run particle minecraft:falling_dust dirt ~ ~2.5 ~ 1.5 1.1 1.5 1 5 normal @a[tag=mostrar.sangre]
 
 
-
-
-
-
-
+#alexscaves:tremorzilla
+# Alex's Caves: Tremorzilla
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:dust 0.2 0.8 0.2 2.5 ~ ~5 ~ 3.5 4.5 3.5 0.1 25 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:dust 0.1 0.5 0.1 2.0 ~ ~5 ~ 3.5 4.5 3.5 0.1 25 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle alexscaves:fallout ~ ~5 ~ 4.0 4.5 4.0 0.1 40 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle alexscaves:hazmat_breathe ~ ~5 ~ 2.0 4.5 2.0 0.1 30 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:block slime_block ~ ~5 ~ 1.5 4.5 1.5 0.1 20 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:dripping_obsidian_tear ~ ~9.5 ~ 0.5 0.5 0.5 0.1 10 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:cloud ~ ~0.5 ~ 4.0 0.5 4.0 0.05 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:block redstone_block ~ ~5 ~ 1.5 4.5 1.5 0.1 40 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:large_smoke ~ ~5 ~ 2.0 4.5 2.0 0.05 20 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle minecraft:glow ~ ~5 ~ 1.5 4.5 1.5 0.1 15 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexscaves:tremorzilla] at @s run particle ash ~ ~5 ~ 4.0 4.5 4.0 0.1 30 normal @a[tag=mostrar.sangre]
 
 
 
