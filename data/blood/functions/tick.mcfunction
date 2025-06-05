@@ -5,7 +5,7 @@
 # Vanilla Minecraft
 execute as @e[type=#blood:minecraft/mobs,nbt={HurtTime:10s}] at @s run function blood:vanilla
 
-# Alex's Mobs
+# Alexs mobs
 execute as @e[type=#blood:alexsmobs/mobs,nbt={HurtTime:10s}] at @s run function blood:alexsmobs
 
 # Alex's Caves
@@ -17,7 +17,7 @@ execute as @e[type=#blood:born_in_chaos_v1/mobs,nbt={HurtTime:10s}] at @s run fu
 # Bosses of Mass Destruction
 execute as @e[type=#blood:bosses_of_mass_destruction/mobs,nbt={HurtTime:10s}] at @s run function blood:bosses_of_mass_destruction
 
-# Deep Dark Regrowth
+# Deep Dark Reglex's Mobsrowth
 execute as @e[type=#blood:deep_dark_regrowth/mobs,nbt={HurtTime:10s}] at @s run function blood:deep_dark_regrowth
 
 # Deeper and Darker
@@ -49,3 +49,6 @@ execute as @e[type=#blood:sculkhorde/mobs,nbt={HurtTime:10s}] at @s run function
 
 # Mowziesmobs
 execute as @e[type=#blood:mowziesmobs/mobs,nbt={HurtTime:10s}] at @s run function blood:mowziesmobs
+
+# Nether's Exoticism
+execute as @e[type=#blood:nethers_exorcis/mobs,nbt={HurtTime:10s}] at @s run function blood:nethers_exorcis

@@ -55,6 +55,9 @@ execute as @s[type=alexsmobs:bison] at @s run particle minecraft:item brown_wool
 execute as @s[type=alexsmobs:bison] at @s run particle minecraft:dust 0.6 0.4 0.2 1 ~ ~1.2 ~ 0.5 0.5 0.7 0.01 3 normal @a[tag=mostrar.sangre]
 execute as @s[type=alexsmobs:bison] at @s run particle minecraft:block redstone_block ~ ~1.2 ~ 0.5 0.5 0.7 0.2 10 normal @a[tag=mostrar.sangre]
 
+# Gazelle
+execute as @s[type=alexsmobs:gazelle] at @s run particle minecraft:block redstone_block ~ ~1.4 ~ 0.2 0.5 0.2 0.01 5 normal @a[tag=mostrar.sangre]
+execute as @s[type=alexsmobs:gazelle] at @s run particle item netherrack ~ ~1.4 ~ 0.3 0.4 0.3 0.15 3 normal @a[tag=mostrar.sangre]
 
 # Blobfish
 execute as @s[type=alexsmobs:blobfish] at @s run particle minecraft:item salmon ~ ~0.2 ~ 0.2 0.1 0.2 0.05 3 normal @a[tag=mostrar.sangre]

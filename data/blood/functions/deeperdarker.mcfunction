@@ -38,6 +38,12 @@ execute as @s[type=deeperdarker:sculk_snapper] at @s run particle minecraft:scul
 execute as @s[type=deeperdarker:sculk_snapper] at @s run particle minecraft:dust 0.1 0.1 0.3 0.8 ~ ~0.3 ~ 0.3 0.3 0.3 0.11 2 normal @a[tag=mostrar.sangre]
 execute as @s[type=deeperdarker:sculk_snapper] at @s run particle block sculk ~ ~0.3 ~ 0.3 0.3 0.3 0.3 7 normal @a[tag=mostrar.sangre]
 
+# angler_fish
+execute as @s[type=deeperdarker:angler_fish] at @s run particle minecraft:sculk_soul ~ ~0.1 ~ 0.1 0.1 0.1 0.01 1 normal @a[tag=mostrar.sangre]
+execute as @s[type=deeperdarker:angler_fish] at @s run particle minecraft:dust 0.1 0.1 0.3 0.6 ~ ~0.1 ~ 0.1 0.1 0.1 0.01 2 normal @a[tag=mostrar.sangre]
+execute as @s[type=deeperdarker:angler_fish] at @s run particle block sculk ~ ~0.1 ~ 0.1 0.1 0.1 0.1 3 normal @a[tag=mostrar.sangre]
+
+
 # Deeper Darker: Sculk Leech
 execute as @s[type=deeperdarker:sculk_leech] at @s run particle minecraft:sculk_soul ~ ~0.1 ~ 0.1 0.1 0.1 0.01 1 normal @a[tag=mostrar.sangre]
 execute as @s[type=deeperdarker:sculk_leech] at @s run particle minecraft:dust 0.1 0.1 0.3 0.6 ~ ~0.1 ~ 0.1 0.1 0.1 0.01 2 normal @a[tag=mostrar.sangre]

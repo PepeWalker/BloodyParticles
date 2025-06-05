@@ -1,7 +1,7 @@
 
 
 ## -----------------------------------  MODs  ----------------------------------- ##
-# Do nothing now
+# Lista de mobs hechos y pendientes
 
 
 #function blood:alexsmobs
@@ -18,15 +18,18 @@
 #unction blood:truedarkness
 #function blood:sculkhorde
 #function blood:vanilla
+## Alexs Caves 
+
+# pendientes
 
 
 ## GrimoireofGaia4
-## dawnEra
-## Alexs Caves 
+
+
 ## The undergarden
 ## Aquamirae
 ## eeeabs
-## epic samurai
+
 ## creeper overhaul
 ## enderman overhaul
 

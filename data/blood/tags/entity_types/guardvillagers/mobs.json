@@ -1,7 +1,6 @@
 {
     "replace": false,
     "values": [
-      "guardvillagers:guard",
-      "guardvillagers:illusioner"
+      "guardvillagers:guard"
     ]
   }
